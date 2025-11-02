@@ -11,8 +11,8 @@ Time Series Analysis Project
 <img width="1585" height="913" alt="image" src="https://github.com/user-attachments/assets/0fdee1a5-4729-45ab-a2bc-53580310a12e" />
 
 # Check Stationary via ADF test 
-ADF Statistic: -8.648489
-p-value: 0.000000
+ADF Statistic: -8.648489;
+p-value: 0.000000;
 Critical Values:
 	1%: -3.442
 	5%: -2.866
@@ -27,15 +27,6 @@ PACF
 
 
 # Fit data into ARIMA model
-
-==============================================================================
-                 coef    std err          z      P>|z|      [0.025      0.975]
-------------------------------------------------------------------------------
-ar.L1          0.5679      0.047     11.970      0.000       0.475       0.661
-ma.L1          0.3382      0.051      6.647      0.000       0.238       0.438
-sigma2         0.7479      0.052     14.466      0.000       0.647       0.849
-==============================================================================
-
 <img width="1387" height="1074" alt="image" src="https://github.com/user-attachments/assets/974521b7-2b02-477c-a4d9-8ce24d07a078" />
 
 
